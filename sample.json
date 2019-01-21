@@ -1,0 +1,16 @@
+[
+      {
+            "firstname": "XXXX",
+            "lastname": "YYYY",
+            "age": 28,
+            "gender": "male",
+            "doj": "21-04-2018"
+      },
+      {
+            "firstname": "ZZZZ",
+            "lastname": "S",
+            "age": 24,
+            "gender": "female",
+            "doj": "30-08-2018"
+      }
+]

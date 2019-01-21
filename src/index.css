@@ -1,0 +1,28 @@
+.box {
+  padding: 15px;
+  border: 1px solid #777;
+}
+
+.box-border-top-open {
+  padding: 15px;
+  border-top: 0px solid #777;
+  border-bottom: 1px solid #777;
+  border-right: 1px solid #777;
+  border-left: 1px solid #777;
+}
+
+.bttn {
+  padding: .175rem .75rem;
+  margin-right: 10px;
+}
+
+.outline-box {
+  margin-top: 10px;
+  width: 100%;
+  float: left;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(221, 221, 221);
+  border-image: initial;
+  padding: 0px 15px;
+}
